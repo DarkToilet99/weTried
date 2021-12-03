@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <colot name="Pale_Spring_Bud">EAEFBD</colot>
+    <colot name="Tea_Green">C9E3AC</colot>
+    <colot name="Pistachio">90BE6D</colot>
+    <colot name="Carrot_Orange">EA9010</colot>
+    <colot name="Olive_Darb_7">37371F</colot>
 </resources>
