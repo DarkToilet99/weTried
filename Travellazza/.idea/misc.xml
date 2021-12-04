@@ -18,11 +18,14 @@
         <entry key="..\:/weTried/Travellazza/app/src/main/res/drawable/logotxt.xml" value="0.4036458333333333" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/drawable/map.xml" value="0.4036458333333333" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/weTried/Travellazza/app/src/main/res/layout/fragment_camera.xml" value="0.20520833333333333" />
+        <entry key="..\:/weTried/Travellazza/app/src/main/res/layout/fragment_chat_fragment.xml" value="0.36666666666666664" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/layout/fragment_dashboard.xml" value="0.3875" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/layout/fragment_home.xml" value="0.3875" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/layout/fragment_notifications.xml" value="0.3875" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/layout/loading.xml" value="0.36666666666666664" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/layout/login.xml" value="0.33" />
+        <entry key="..\:/weTried/Travellazza/app/src/main/res/layout/register.xml" value="0.33" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3875" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4036458333333333" />
         <entry key="..\:/weTried/Travellazza/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4036458333333333" />

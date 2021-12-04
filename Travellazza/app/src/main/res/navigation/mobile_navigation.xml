@@ -22,4 +22,14 @@
         android:name="com.example.travellazza.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_chat"
+        android:name="com.example.travellazza.ui.chat.ChatFragment"
+        android:label="@string/chat"
+        tools:layout="@layout/fragment_chat_fragment" />
+    <fragment
+        android:id="@+id/navigation_camera"
+        android:name="com.example.travellazza.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
 </navigation>
