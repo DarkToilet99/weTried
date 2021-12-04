@@ -60,6 +60,7 @@
         android:background="@drawable/login_btn"
         android:fallbackLineSpacing="false"
         android:hapticFeedbackEnabled="false"
+        android:onClick="onClick"
         android:src="@drawable/login_btn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
